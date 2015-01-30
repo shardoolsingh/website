@@ -25,6 +25,8 @@ if($_POST["submit"]){
 <head>
     <meta charset="UTF-8">
     <title>Form to Email</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="contact.css">
 </head>
 <body>
 
